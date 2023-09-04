@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on Data mining and visualization.
+- 👨🏼‍💻 I'm a Data Engineer.
+- 🔭 I’m currently working on Transaction/Sanctions Screening tool.
 - 🌱 I’m currently learning Apache Kafka and Spark streaming.
-- 💬 Ask me about Data visualization, Regression model building, etc.
-- 📫 How to reach me: DM on LinkedIn or Twitter
+- 💬 Ask me about ETL, Machine Learning, Python programming etc.
+- 📫 How to reach me: DM on LinkedIn
 
-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawasaish&show_icons=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawasaish&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawasaish&layout=compact)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
